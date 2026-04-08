@@ -1,7 +1,6 @@
 # Course Project Submissions – Spring 2026
 
-## Course: [Write course name here]
-
+## Course: CSC 101: Computer Science II
 ## Instructions for Students
 
 1. Go to your assigned project folder (Project1, Project2, etc.)
